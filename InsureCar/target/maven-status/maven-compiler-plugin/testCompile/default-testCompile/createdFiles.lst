@@ -1,0 +1,13 @@
+pages\BodyType.class
+friday\InsureCar\AppTest.class
+pages\MyCar.class
+pages\RegisteredOwner.class
+pages\Brand.class
+pages\BirthDetails.class
+pages\Engine.class
+resources\CarDataProvider.class
+pages\Fuel.class
+resources\ConfigFileReader.class
+pages\Model.class
+pages\RegistrationDate.class
+pages\Precondition.class

@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+-<listeners>
+
+<listener class-name="resources.Listeners"/>
+
+<listener class-name="resources.ExtentReporterNG"/>
+
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="friday.InsureCar.AppTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
